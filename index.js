@@ -13,6 +13,6 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
 }
 
 fuction deleteFromObjectByKey(object, key){
-  
+  newObj = Object
 }
 
